@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm Rasya 👋
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" alt="Waving hand" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&height=55&lines=Hi%2C+I%27m+Rasya" alt="Hi, I'm Rasya" />
+</h1>
 
 ### Full-Stack Developer · Quantitative Finance & Financial Data
 
